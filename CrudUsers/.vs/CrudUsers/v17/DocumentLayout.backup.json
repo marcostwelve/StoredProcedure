@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marquinhos\\Downloads\\projetos\\C#\\CRUD STORED PROCEDURES\\CrudUsers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8F2354-CA3F-46EE-8CD4-62D733D53971}|CrudUsers\\CrudUsers.csproj|c:\\users\\marquinhos\\downloads\\projetos\\c#\\crud stored procedures\\crudusers\\crudusers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE8F2354-CA3F-46EE-8CD4-62D733D53971}|CrudUsers\\CrudUsers.csproj|solutionrelative:crudusers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8F2354-CA3F-46EE-8CD4-62D733D53971}|CrudUsers\\CrudUsers.csproj|c:\\users\\marquinhos\\downloads\\projetos\\c#\\crud stored procedures\\crudusers\\crudusers\\views\\home\\gettimenow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE8F2354-CA3F-46EE-8CD4-62D733D53971}|CrudUsers\\CrudUsers.csproj|solutionrelative:crudusers\\views\\home\\gettimenow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8F2354-CA3F-46EE-8CD4-62D733D53971}|CrudUsers\\CrudUsers.csproj|c:\\users\\marquinhos\\downloads\\projetos\\c#\\crud stored procedures\\crudusers\\crudusers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE8F2354-CA3F-46EE-8CD4-62D733D53971}|CrudUsers\\CrudUsers.csproj|solutionrelative:crudusers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE8F2354-CA3F-46EE-8CD4-62D733D53971}|CrudUsers\\CrudUsers.csproj|c:\\users\\marquinhos\\downloads\\projetos\\c#\\crud stored procedures\\crudusers\\crudusers\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FE8F2354-CA3F-46EE-8CD4-62D733D53971}|CrudUsers\\CrudUsers.csproj|solutionrelative:crudusers\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Marquinhos\\Downloads\\projetos\\C#\\CRUD STORED PROCEDURES\\CrudUsers\\CrudUsers\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "CrudUsers\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Marquinhos\\Downloads\\projetos\\C#\\CRUD STORED PROCEDURES\\CrudUsers\\CrudUsers\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "CrudUsers\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-11T23:39:51.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetTimeNow.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marquinhos\\Downloads\\projetos\\C#\\CRUD STORED PROCEDURES\\CrudUsers\\CrudUsers\\Views\\Home\\GetTimeNow.cshtml",
+              "RelativeDocumentMoniker": "CrudUsers\\Views\\Home\\GetTimeNow.cshtml",
+              "ToolTip": "C:\\Users\\Marquinhos\\Downloads\\projetos\\C#\\CRUD STORED PROCEDURES\\CrudUsers\\CrudUsers\\Views\\Home\\GetTimeNow.cshtml",
+              "RelativeToolTip": "CrudUsers\\Views\\Home\\GetTimeNow.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T23:35:33.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marquinhos\\Downloads\\projetos\\C#\\CRUD STORED PROCEDURES\\CrudUsers\\CrudUsers\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudUsers\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Marquinhos\\Downloads\\projetos\\C#\\CRUD STORED PROCEDURES\\CrudUsers\\CrudUsers\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CrudUsers\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T23:34:12.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Marquinhos\\Downloads\\projetos\\C#\\CRUD STORED PROCEDURES\\CrudUsers\\CrudUsers\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CrudUsers\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Marquinhos\\Downloads\\projetos\\C#\\CRUD STORED PROCEDURES\\CrudUsers\\CrudUsers\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CrudUsers\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T23:10:29.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
